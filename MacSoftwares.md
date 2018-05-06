@@ -1,6 +1,6 @@
 # Mac 常用软件
 
-- iTerm
+- iTerm
 - SublimeText
 - Dash
 - Sequel Pro
