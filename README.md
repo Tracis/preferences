@@ -4,4 +4,4 @@
 
 ## [编辑器配置](https://github.com/Tracis/preferences/blob/master/Editor.md)
 
-## [浏览器书签](https://github.com/Tracis/preferences/blob/master/Bookmarks.md)
+## [浏览器书签](https://github.com/Tracis/preferences/blob/master/Bookmarks.md)

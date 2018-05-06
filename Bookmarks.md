@@ -12,6 +12,7 @@
 - [月光博客](http://www.williamlong.info/)
 - [廖雪峰的官网网站](https://www.liaoxuefeng.com/)
 - [Tsung's BLOG](http://octman.com/)
+- [王垠的博客：当我在扯淡](http://www.yinwang.org/#)
 
 ### React
 
@@ -37,6 +38,10 @@
 - [Ruby On Rails Guides](http://guides.rubyonrails.org/)
 - [Ruby on Rails 實戰聖經](https://ihower.tw/rails/)
 - [Ruby On Rails API](http://api.rubyonrails.org/)
+
+### 其他文章
+
+- [Chrome DevTools 的一些使用技巧](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel)
 
 ## Art(艺术类)
 
