@@ -2,7 +2,7 @@
 
 ## Programming(编程相关)
 
-### General
+### General(综合类)
 
 - [掘金](https://juejin.im/timeline)
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
@@ -32,11 +32,11 @@
 
 ### Ruby On Rails
 
--[Ruby On Rails指南](https://ruby-china.github.io/rails-guides/)
--[Ruby On Rails官网](http://rubyonrails.org/)
--[Ruby On Rails Guides](http://guides.rubyonrails.org/)
--[Ruby on Rails 實戰聖經](https://ihower.tw/rails/)
--[Ruby On Rails API](http://api.rubyonrails.org/)
+- [Ruby On Rails指南](https://ruby-china.github.io/rails-guides/)
+- [Ruby On Rails官网](http://rubyonrails.org/)
+- [Ruby On Rails Guides](http://guides.rubyonrails.org/)
+- [Ruby on Rails 實戰聖經](https://ihower.tw/rails/)
+- [Ruby On Rails API](http://api.rubyonrails.org/)
 
 ## Art(艺术类)
 
