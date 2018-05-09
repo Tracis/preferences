@@ -27,9 +27,9 @@
 
 ### Ruby
 
--[Ruby China](https://ruby-china.org/)
--[Ruby官网](https://www.ruby-lang.org/en/)
--[RubyGems](https://rubygems.org/)
+- [Ruby China](https://ruby-china.org/)
+- [Ruby官网](https://www.ruby-lang.org/en/)
+- [RubyGems](https://rubygems.org/)
 
 ### Ruby On Rails
 
