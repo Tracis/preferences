@@ -13,4 +13,8 @@
 - Navicat Premium
 - Spectacle
 - VSCode
+- Postman
+- Tunnelblick
+- TeamViewer
+- Youdao Note
 - ...
