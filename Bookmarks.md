@@ -42,6 +42,7 @@
 ### 其他文章
 
 - [Chrome DevTools 的一些使用技巧](https://flaviocopes.com/chrome-devtools-tips/#drag-and-drop-in-the-elements-panel)
+- [如何写一个开源的JS库](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 
 ## Art(艺术类)
 
