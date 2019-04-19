@@ -5,7 +5,7 @@
 ### General(综合类)
 
 - [掘金](https://juejin.im/timeline)
-- [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
+- [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)`
 - [语雀](https://yuque.com/)
 - [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
 - [淘宝前端团队(FED)](http://taobaofed.org/)
@@ -13,6 +13,8 @@
 - [廖雪峰的官网网站](https://www.liaoxuefeng.com/)
 - [Tsung's BLOG](http://octman.com/)
 - [王垠的博客：当我在扯淡](http://www.yinwang.org/#)
+- [小小沧海的博客](http://www.cnblogs.com/xxcanghai/)
+- [AlloyTeam](http://www.alloyteam.com/)
 
 ### React
 

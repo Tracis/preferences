@@ -1,5 +1,7 @@
 # Mac 常用软件
 
+## 我的mac
+
 - iTerm
 - SublimeText
 - Dash
@@ -17,4 +19,9 @@
 - Tunnelblick
 - TeamViewer
 - Youdao Note
-- ...
+
+## 其他人的
+
+1. https://github.com/jaywcjlove/awesome-mac?utm_source=gold_browser_extension
+
+2. https://github.com/nikitavoloboev/my-mac-os

@@ -13,3 +13,8 @@
 ## 书单
 
 - [语雀书院的书单](https://yuque.com/book-academy)
+
+## GitBook
+
+- [GitHub 漫游指南](http://github.phodal.com/)
+- [wizardforcel收藏的283本书](https://legacy.gitbook.com/@wizardforcel)
