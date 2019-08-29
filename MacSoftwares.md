@@ -19,6 +19,14 @@
 - Tunnelblick
 - TeamViewer
 - Youdao Note
+- Unrar
+- Zeplin
+- MAMP
+- GitX
+- 网易邮箱大师
+- 网易云音乐
+- XMind
+- RedisDesktopManager
 
 ## 其他人的
 
