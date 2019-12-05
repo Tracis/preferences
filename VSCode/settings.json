@@ -1,0 +1,93 @@
+{
+  "workbench.colorTheme": "Solarized Dark",
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.rulers": [
+    80
+  ],
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": true
+  },
+  "gitlens.advanced.messages": {
+    "suppressFileNotUnderSourceControlWarning": true,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "plaintext": "jade"
+  },
+  "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+  "editor.find.autoFindInSelection": true,
+  "window.openFilesInNewWindow": "off",
+  "workbench.editor.enablePreview": true,
+  "editor.mouseWheelScrollSensitivity": 1.2,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.renderIndentGuides": false,
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "editor.renderWhitespace": "all",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "autoprefixer.formatOnSave": false,
+  "autoprefixer.findExternalAutoprefixer": false,
+  "autoprefixer.browsers": [
+    "Safari >= 8",
+    "Firefox >= 21",
+    "Chrome >= 23",
+    "IE >= 9",
+    "Opera >= 15",
+    "last 2 versions"
+  ],
+  "window.zoomLevel": 0,
+  "git.autofetch": true,
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "px-to-rem.px-per-rem": 75,
+  "files.trimTrailingWhitespace": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "tslint.configFile": "./tslint.json",
+  "tslint.jsEnable": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "ruby.format": "standard",
+  "markdown.extension.showExplorer": true,
+  "markdown.extension.toc.githubCompatibility": true,
+  "files.eol": "\n",
+  "markdown-toc.depthFrom": 2,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "markdown.marp.exportType": "pptx",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  //-------- Pandoc Option Configuration --------
+  // pandoc .pdf output option template that you would like to use
+  "pandoc.pdfOptString": "",
+  // pandoc .docx output option template that you would like to use
+  "pandoc.docxOptString": "",
+  // pandoc .html output option template that you would like to use
+  "pandoc.htmlOptString": ""
+}
